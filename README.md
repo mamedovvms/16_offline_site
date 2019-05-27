@@ -1,6 +1,8 @@
 # New Site Template
 
-[TODO. There will be project description]
+Website template with style sheets and js.
+It can be opened in the browser for viewing or editing. 
+The presence of the Internet is not necessary.
 
 # Project Goals
 
